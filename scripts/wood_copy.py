@@ -28,7 +28,7 @@ class main(Script):
     def __init__(self, **kwargs):
         Script.__init__(self, **kwargs)
         self.title = "Global wood density database - Zanne et al. 2009"
-        self.name = "wood-density"
+        self.name = "wood-copy"
         self.retriever_minimum_version = '2.0.dev'
         self.version = '1.3.3'
         self.urls = {
